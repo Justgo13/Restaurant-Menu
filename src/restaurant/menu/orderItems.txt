@@ -1,0 +1,4 @@
+2                                                    Hamburger                              10.00
+2                                                      Hot Dog                                   4.00
+2                                                   Club Sandwich                        20.00
+2                                                       Donut                                       2.00
